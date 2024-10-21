@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahirul Islam</h1>
-<h3 align="center">CSE Final Year Student At North South University (NSU) A Problem Solver</h3>
+<h3 align="center">CSE Final Year Student At North South University (NSU)</h3>
 
 - 🔭 I’m currently working on GoLang and .NET
   
